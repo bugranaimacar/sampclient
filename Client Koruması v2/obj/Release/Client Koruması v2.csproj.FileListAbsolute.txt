@@ -1,0 +1,10 @@
+E:\client\Client Koruması v2\bin\Release\Nova Roleplay Client.exe.config
+E:\client\Client Koruması v2\bin\Release\Nova Roleplay Client.exe
+E:\client\Client Koruması v2\bin\Release\Nova Roleplay Client.pdb
+E:\client\Client Koruması v2\obj\Release\Client Koruması v2.csprojResolveAssemblyReference.cache
+E:\client\Client Koruması v2\obj\Release\Client_Koruması_v2.anaEkran.resources
+E:\client\Client Koruması v2\obj\Release\Client_Koruması_v2.Patch.resources
+E:\client\Client Koruması v2\obj\Release\Client_Koruması_v2.Properties.Resources.resources
+E:\client\Client Koruması v2\obj\Release\Client Koruması v2.csproj.GenerateResource.Cache
+E:\client\Client Koruması v2\obj\Release\Nova Roleplay Client.exe
+E:\client\Client Koruması v2\obj\Release\Nova Roleplay Client.pdb

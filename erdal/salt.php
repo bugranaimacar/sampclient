@@ -1,0 +1,7 @@
+<?php
+
+
+$password = 'Boshret Kheir';
+
+?>
+
